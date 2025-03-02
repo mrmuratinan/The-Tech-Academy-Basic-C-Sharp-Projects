@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35825.156 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysAndLists", "ArraysAndLists.csproj", "{9EDD302A-CACA-48B8-9C05-C20582608955}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterations", "..\Iterations\Iterations.csproj", "{40A01AE7-C80F-4E2E-8C43-DAE704DD6ABB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9EDD302A-CACA-48B8-9C05-C20582608955}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EDD302A-CACA-48B8-9C05-C20582608955}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EDD302A-CACA-48B8-9C05-C20582608955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40A01AE7-C80F-4E2E-8C43-DAE704DD6ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40A01AE7-C80F-4E2E-8C43-DAE704DD6ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40A01AE7-C80F-4E2E-8C43-DAE704DD6ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40A01AE7-C80F-4E2E-8C43-DAE704DD6ABB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
