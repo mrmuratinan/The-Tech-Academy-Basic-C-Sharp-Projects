@@ -1,0 +1,15 @@
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists\bin\Debug\net8.0\ArraysAndLists.exe
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists\bin\Debug\net8.0\ArraysAndLists.deps.json
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists\bin\Debug\net8.0\ArraysAndLists.runtimeconfig.json
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists\bin\Debug\net8.0\ArraysAndLists.dll
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists\bin\Debug\net8.0\ArraysAndLists.pdb
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists\obj\Debug\net8.0\ArraysAndLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists\obj\Debug\net8.0\ArraysAndLists.AssemblyInfoInputs.cache
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists\obj\Debug\net8.0\ArraysAndLists.AssemblyInfo.cs
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists\obj\Debug\net8.0\ArraysAndLists.csproj.CoreCompileInputs.cache
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists\obj\Debug\net8.0\ArraysAndLists.sourcelink.json
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists\obj\Debug\net8.0\ArraysAndLists.dll
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists\obj\Debug\net8.0\refint\ArraysAndLists.dll
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists\obj\Debug\net8.0\ArraysAndLists.pdb
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists\obj\Debug\net8.0\ArraysAndLists.genruntimeconfig.cache
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\ArraysAndLists\obj\Debug\net8.0\ref\ArraysAndLists.dll
