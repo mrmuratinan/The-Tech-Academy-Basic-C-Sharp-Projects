@@ -149,7 +149,7 @@ class Program
       //Create a foreach loop that evaluates each item in the list, and displays a message showing the string and whether or not it has already appeared in the list.
       foreach (string name in names)
       {
-         Console.lWritelLine(name);
+         Console.WriteLine(name);
          if (repeatCheck.Contains(name))
          {
             Console.WriteLine("This name has been repeated. Use last name initial when referring to this student.");

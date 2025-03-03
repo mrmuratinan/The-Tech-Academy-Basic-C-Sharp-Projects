@@ -28,7 +28,7 @@ class ArrayAssignment
       }
 
       // 2. Create a one-dimensional Array of integers.
-      int[] intArray = { 17, 22, 3, 67, 5, 91, 11, 42, 23, 6 };
+      int[] intArray = { 23,45,12,74,32,51,26,85,19,37 };
       //Ask the user for a index
       Console.WriteLine("\nSelect a number between 0 and 9:");
       intIndex = Convert.ToInt32(Console.ReadLine());
