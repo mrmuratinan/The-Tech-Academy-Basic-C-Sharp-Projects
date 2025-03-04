@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IterationAssignment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbb3ce80751d42a3144d5f6e343a87cdca8e6c38")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c6a223be0d7372a8668810ab641a8c871cf8323")]
 [assembly: System.Reflection.AssemblyProductAttribute("IterationAssignment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IterationAssignment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

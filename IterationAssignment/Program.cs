@@ -132,8 +132,6 @@ class Program
       Console.WriteLine("\n\nEnd of the PART 4. Press anykey to continue...");
       Console.ReadLine();
 
-    LastPart:
-
       // Part 5
       // Create a List of strings that has at least two identical strings in the List.
       List<string> lstLetters = new() { "a", "b", "c", "b" };
@@ -163,33 +161,33 @@ class Program
       j = 0;
       for (j = 0; j < lstLetters.Count; j++)
       {
-         if (strInput == lstLetters[j])
-         {
-            Console.WriteLine(j);
-         }
+         if (strInput == lstLetters[j]) { Console.WriteLine(j); }
       }
       Console.WriteLine("\n\nEnd of the PART 5. Press anykey to continue...");
       Console.ReadLine();
 
+       LastPart:
+
       //Part 6
       //Create a List of strings that has at least two identical strings in the List.
-      List<string> names = new() { "Bob", "Jim", "Tiffany", "Bob", "Kat", "Mary", "Mary" };
-      List<string> repeatCheck = new();
-      Console.WriteLine("Class Roster:");
+      lstLetters=new List<string>() { "A", "B", "C", "D", "C", "B" };
+      List<string> lstCheck = new();
+      Console.WriteLine("Duplicate report:");
       //Create a foreach loop that evaluates each item in the list, and displays a message showing the string and whether or not it has already appeared in the list.
-      foreach (string name in names)
+      foreach (string strLetter in lstLetters)
       {
-         Console.WriteLine(name);
-         if (repeatCheck.Contains(name))
+         Console.Write(strLetter);
+         if (lstCheck.Contains(strLetter))
          {
-            Console.WriteLine("This name has been repeated. Use last name initial when referring to this student.");
+            Console.WriteLine(" - This item is a duplicate.");
          }
          else
          {
-            Console.WriteLine("This name has not been repeated.");
+            Console.WriteLine(" - Unique.");
+            lstCheck.Add(strLetter);
          }
-         repeatCheck.Add(name);
       }
+      Console.WriteLine("\n\nEnd of the PART 6. Press anykey to continue...");
       Console.ReadLine();
    }
 }
