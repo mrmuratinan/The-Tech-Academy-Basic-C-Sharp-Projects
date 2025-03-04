@@ -2,143 +2,173 @@
 using System.Collections.Generic;
 using System.Reflection;
 using System.Text;
+using System.Xml.Linq;
 
 class Program
 
 {
    static void Main(string[] args)
    {
+      goto LastPart;
       // Part 1
-      //Create a one - dimensional Array of strings.
-      string[] wordstart =
+      //A one-dimensional array of strings
+      string[] strFirstPart =
       {
-         "Welcome to The ",
-         "I'm Principal, ",
-         "Our goal is to provide our students with a "
+         "Your name is ",
+         "Your surname is ",
+         "You are studying "
       };
-      string[] wordend = { " Academy", ".", " learning experience." };
 
-      List<string> responses = new List<string>();
+      List<string> lstSecondPart = new();
+
       //Ask the user to input some text.
+      Console.Write("Please enter your name: ");
+      lstSecondPart.Add(Console.ReadLine());
+      Console.Write("Please enter your surname: ");
+      lstSecondPart.Add(Console.ReadLine());
+      Console.Write("Please enter the course you are studying: ");
+      lstSecondPart.Add(Console.ReadLine());
 
-      Console.WriteLine("Please enter a noun:");
-      responses.Add(Console.ReadLine());
-      Console.WriteLine("Please enter the name of someone infamous:");
-      responses.Add(Console.ReadLine());
-      Console.WriteLine("Please enter an adjective");
-      responses.Add(Console.ReadLine());
-      //Create a loop that goes through each string in the Array, adding the user’s text to the string.
-      for (int i = 0; i < wordstart.Length; i++)
-
+      //Create a loop that iterates through each string in the array and adds the user's text input to the end of each string
+      for (int i = 0; i < strFirstPart.Length; i++)
       {
-         wordstart[i] += responses[i];
-         Console.WriteLine(wordstart[i] + wordend[i]);
+         strFirstPart[i] += lstSecondPart[i];
       }
+
+      //Then create a second loop that prints off each string in the array one at a time.
+      Console.WriteLine("Press anykey to display the result...");
       Console.ReadLine();
-      Console.WriteLine("The strings we used:");
-      //Then create a loop that prints off each string in the Array on a separate line.
-      for (int i = 0; i < wordstart.Length; i++)
+      for (int i = 0; i < strFirstPart.Length; i++)
       {
-         Console.WriteLine(wordstart[i] + wordend[i]);
-         //Part 2
-         // Create an infinite loop (Uncomment line "i--" for infinite loop.
-         // Fix the infinite loop.
-         // i--;
-
+         Console.Write(strFirstPart[i]);
+         Console.WriteLine(i == strFirstPart.Length-1 ? ".": ",");
       }
+      Console.WriteLine("\nEnd of the PART 1. Press anykey to continue...");
+      Console.ReadLine();
+
+      //Part 2
+      // Create an infinite loop 
+      int j= 0;
+      while (true)
+      {
+         //To fix the infinite loop I added a break statement
+         if (j > 5) { break; }
+
+         Console.WriteLine("Count = {0}.", j);
+         j++;
+      }
+      Console.WriteLine("\nEnd of the PART 2. Press anykey to continue...");
       Console.ReadLine();
 
       //Part 3
-      Console.WriteLine("Is that a ghost?!");
-      StringBuilder boo = new();
-      boo.Append('B');
       //Create a loop where the comparison that’s used to determine whether to continue iterating the loop is a “<” operator.
-      while (boo.Length < 10)
+      j = 0;
+      while (j < 5)
       {
-         boo.Append('o');
+         Console.Write(j);
+         j++;
       }
-      boo.Append('!');
-      Console.ReadLine();
-      Console.WriteLine(boo);
-      Console.ReadLine();
-      StringBuilder ahh = new();
-      ahh.Append('A');
-      //Add a loop where the comparison that’s used to determine whether to continue iterating the loop is a “<=” operator.
-      while (ahh.Length <= 10)
+
+      Console.WriteLine("\n");
+
+      //Create a loop where the comparison that’s used to determine whether to continue iterating the loop is a “<=” operator.
+      j = 0;
+      while (j <= 5)
       {
-         ahh.Append('h');
+         Console.Write(j);
+         j++;
       }
-      ahh.Append("!");
-      Console.WriteLine(ahh);
+      Console.WriteLine("\n\nEnd of the PART 3. Press anykey to continue...");
       Console.ReadLine();
 
       //Part 4
-
       //Create a List of strings where each item in the list is unique.
 
-      List<string> teams = new List<string>() { "Bucks", "Raptors", "Celtics", "Heat", "Pacers", "76ers", "Nets", "Magic", 
-         "Wizards", "Hornets", "Bulls","Knicks", "Pistons","Hawks", "Cavaliers" };
-      Console.WriteLine("NBA Eastern Conference Standing");
-      //Ask the user to input text to search for in the List.
-      Console.WriteLine("Enter team name:");
-      int standing = 0;
-      bool isValid = false;
-      int index = 0;
-      //Create a loop that iterates through the list and then displays the index of the array that contains matching text on the screen.
-      while (!isValid) 
+      List<string> strCountries = new List<string>() 
       {
-         int i2 = 0;
-         string teamrequest = Console.ReadLine();
-         foreach (string team in teams)
-         {
-            if (teamrequest == team)
-            {
-            standing = i2 + 1;
-            index = i2;
-            }
-            i2++;
-         }
-
-         //Add code to that above loop that tells a user if they put in text that isn’t in the List.
-         if (standing == 0)
-         {
-            Console.WritelLine("That is not a valid team name. Enter again:");
-         }
-         //Add code to that above loop that stops it from executing once a match has been found.
-         else
+        "Antigua and Barbuda",
+         "Bahamas",
+         "Barbados",
+         "Belize",
+         "Canada",
+         "Costa Rica",
+         "Cuba",
+         "Dominica",
+         "Dominican Republic",
+         "El Salvador",
+         "Grenada",
+         "Guatemala",
+         "Haiti",
+         "Honduras",
+         "Jamaica",
+         "Mexico",
+         "Nicaragua",
+         "Panama",
+         "Saint Kitts and Nevis",
+         "Saint Lucia",
+         "Saint Vincent and the Grenadines",
+         "Trinidad and Tobago",
+         "United States of America"
+      };
+      //Ask the user to input text to search for in the List.
+      Console.Write("\nEnter an independent country name in North America: ");
+      string strInputCountry = Console.ReadLine();
+      strInputCountry = char.ToUpper(strInputCountry[0])+ strInputCountry.Substring(1);
+      int intIndex = 0;
+      bool isValid = false;
+      //Create a loop that iterates through the list and then displays the index of the array that contains matching text on the screen.
+      foreach (string strCountry in strCountries)
+      {
+         if (strInputCountry == strCountry)
          {
             isValid = true;
+            intIndex = strCountries.IndexOf(strCountry);
+            break;
          }
       }
-      Console.WriteLine("Processing... Index is: " + index + ". So...");
-      Console.WriteLine("Standing is: " + standing);
+      string result= (isValid) ? "\n\nCongats! " + strInputCountry + " is a North America country with a index " + intIndex : "\n\nSorry! " + strInputCountry + " is not a North America country.";
+      Console.WriteLine(strInputCountry + result);
+
+      Console.WriteLine("\n\nEnd of the PART 4. Press anykey to continue...");
       Console.ReadLine();
+
+    LastPart:
 
       // Part 5
       // Create a List of strings that has at least two identical strings in the List.
-      List<string> tables = new List<string>() { "Reserved", "Vacant", "Taken", "Vacant", "Vacant", "Reserved", "Taken" };
-      Console.WriteLine("Welcome to Swell Taco! \nDue to COVID-19 have a computerized check-in.\nIf you have a reservation type " +
-         "\"Reserved\".\nIf you are joining a party that is already here type \"Taken\".\nOtherwise type \"Vacant\".");
-      //Ask the user to select text to search for in the List.
+      List<string> lstLetters = new() { "a", "b", "c", "b" };
 
-      Console.WriteLine("Enter selection:");
-      string selection = Console.ReadLine();
+      //Ask the user to select text to search for in the list.
 
-      while (!(selection == "Vacant" || selection == "Reserved" || selection == "Taken"))
+      Console.Write("Enter a or b or c): ");
+      int origRow = Console.CursorTop;
+      int origCol = Console.CursorLeft;
+      string strInput = "";
+
+      while (!(strInput == "a" || strInput == "b" || strInput == "c"))
       {
-         //Add code that tells a user if they put in text that isn’t in the List.
-         Console.WriteLine("Please enter one of the 3 choices:");
-         selection = Console.ReadLine();
+         if (strInput != "") {
+            Console.SetCursorPosition(origCol, origRow);
+            Console.Write(" ");
+            Console.SetCursorPosition(0, origRow+1);
+            Console.Write("Please enter letters a or b or c only!"); 
+         }
+         Console.SetCursorPosition(origCol, origRow);
+         strInput = Console.ReadLine();
       }
-      Console.WriteLine("The tables that match your selection are numbered:");
+      Console.SetCursorPosition(0, origRow + 1);
+      Console.Write(new string(' ', Console.WindowWidth));
+      Console.WriteLine("The matching letter is at the index(s): ");
       //Create a loop that iterates through the loop and then displays the indices of the array that contain matching text on the screen.
-      for (int i3 = 0; i3 < tables.Count; i3++)
+      j = 0;
+      for (j = 0; j < lstLetters.Count; j++)
       {
-         if (selection == tables[i3])
+         if (strInput == lstLetters[j])
          {
-            Console.WriteLine(i3);
+            Console.WriteLine(j);
          }
       }
+      Console.WriteLine("\n\nEnd of the PART 5. Press anykey to continue...");
       Console.ReadLine();
 
       //Part 6

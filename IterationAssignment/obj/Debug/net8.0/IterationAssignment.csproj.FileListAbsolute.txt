@@ -1,0 +1,15 @@
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\IterationAssignment\obj\Debug\net8.0\IterationAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\IterationAssignment\obj\Debug\net8.0\IterationAssignment.AssemblyInfoInputs.cache
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\IterationAssignment\obj\Debug\net8.0\IterationAssignment.AssemblyInfo.cs
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\IterationAssignment\obj\Debug\net8.0\IterationAssignment.csproj.CoreCompileInputs.cache
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\IterationAssignment\obj\Debug\net8.0\IterationAssignment.sourcelink.json
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\IterationAssignment\bin\Debug\net8.0\IterationAssignment.exe
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\IterationAssignment\bin\Debug\net8.0\IterationAssignment.deps.json
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\IterationAssignment\bin\Debug\net8.0\IterationAssignment.runtimeconfig.json
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\IterationAssignment\bin\Debug\net8.0\IterationAssignment.dll
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\IterationAssignment\bin\Debug\net8.0\IterationAssignment.pdb
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\IterationAssignment\obj\Debug\net8.0\IterationAssignment.dll
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\IterationAssignment\obj\Debug\net8.0\refint\IterationAssignment.dll
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\IterationAssignment\obj\Debug\net8.0\IterationAssignment.pdb
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\IterationAssignment\obj\Debug\net8.0\IterationAssignment.genruntimeconfig.cache
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\IterationAssignment\obj\Debug\net8.0\ref\IterationAssignment.dll
