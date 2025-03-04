@@ -9,7 +9,6 @@ class Program
 {
    static void Main(string[] args)
    {
-      goto LastPart;
       // Part 1
       //A one-dimensional array of strings
       string[] strFirstPart =
@@ -165,8 +164,6 @@ class Program
       }
       Console.WriteLine("\n\nEnd of the PART 5. Press anykey to continue...");
       Console.ReadLine();
-
-       LastPart:
 
       //Part 6
       //Create a List of strings that has at least two identical strings in the List.
