@@ -6,6 +6,9 @@ namespace m0401CallingMethodAssignment
    {
       static void Main(string[] args)
       {
+         goto StartSection;
+
+      StartSection:
          //**************************************************
          // Calling Method Assignment
          //**************************************************

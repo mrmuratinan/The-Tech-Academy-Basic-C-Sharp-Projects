@@ -17,7 +17,6 @@ namespace Submission01_MethodClassAssignment
          Console.WriteLine("\nCalling method with named arguments:");
          mathOps.PerformMathOperation(firstNumber: 8, secondNumber: 15);
 
-         // Keep the console window open until the user presses a key
          Console.WriteLine("\nPress any key to exit...");
          Console.ReadKey();
       }

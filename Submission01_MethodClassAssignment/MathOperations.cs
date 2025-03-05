@@ -15,7 +15,7 @@ namespace Submission01_MethodClassAssignment
          int result = firstNumber * 2;
 
          // Display the second integer to the screen
-         Console.WriteLine($"The result of the math operation on {firstNumber} is: {result}");
+         Console.WriteLine($"The result : first number = {firstNumber} is: {result}");
          Console.WriteLine($"The second number displayed is: {secondNumber}");
       }
    }
