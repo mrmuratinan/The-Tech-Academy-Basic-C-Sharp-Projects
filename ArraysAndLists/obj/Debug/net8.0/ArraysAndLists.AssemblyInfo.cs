@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArraysAndLists")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83f58989f5971fbb34a29dbc549493b19d18bf7c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e01d8a787abc00822c6f78107107c7de2bce3cc4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArraysAndLists")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArraysAndLists")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
