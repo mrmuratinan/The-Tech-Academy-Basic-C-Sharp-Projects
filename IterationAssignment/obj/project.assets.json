@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\EVRAK\\001-MI_DOCS\\100-PROJECTS\\GITHUB\\The-Tech-Academy-Basic-C-Sharp-Projects\\IterationAssignment\\m0202_IterationAssignment.csproj",
-      "projectName": "m0202_IterationAssignment",
-      "projectPath": "C:\\EVRAK\\001-MI_DOCS\\100-PROJECTS\\GITHUB\\The-Tech-Academy-Basic-C-Sharp-Projects\\IterationAssignment\\m0202_IterationAssignment.csproj",
+      "projectUniqueName": "C:\\EVRAK\\001-MI_DOCS\\100-PROJECTS\\GITHUB\\The-Tech-Academy-Basic-C-Sharp-Projects\\IterationAssignment\\m0202IterationAssignment.csproj",
+      "projectName": "m0202IterationAssignment",
+      "projectPath": "C:\\EVRAK\\001-MI_DOCS\\100-PROJECTS\\GITHUB\\The-Tech-Academy-Basic-C-Sharp-Projects\\IterationAssignment\\m0202IterationAssignment.csproj",
       "packagesPath": "C:\\Users\\appid\\.nuget\\packages\\",
       "outputPath": "C:\\EVRAK\\001-MI_DOCS\\100-PROJECTS\\GITHUB\\The-Tech-Academy-Basic-C-Sharp-Projects\\IterationAssignment\\obj\\",
       "projectStyle": "PackageReference",
