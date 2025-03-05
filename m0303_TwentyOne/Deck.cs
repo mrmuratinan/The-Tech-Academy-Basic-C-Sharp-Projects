@@ -29,6 +29,6 @@ namespace m0303TwentyOne
             }
          }
       }
-      public required List<Card> Cards { get; set; }
+      public List<Card> Cards { get; set; }
     }
 }
