@@ -6,10 +6,10 @@ namespace m0303TwentyOne
    {
       static void Main(string[] args)
       {
-         Card cardOne = new Card();
-         //cardOne.Face = "Queen";
-         //cardOne.Suit = "Spades";
-         Console.WriteLine(cardOne.Face + " of " + cardOne.Suit);
+         Deck deck = new();
+
+
+         Console.WriteLine(deck.Cards[0].Face + " of " + deck.Cards[0].Suit);
       }
    }
 }
