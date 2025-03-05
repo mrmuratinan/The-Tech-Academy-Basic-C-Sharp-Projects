@@ -52,5 +52,12 @@ namespace m0401CallingMethodAssignment
             throw new ArgumentException("Invalid input. The string could not be converted to an integer.");
          }
       }
+
+      // Method that takes two integers, with the second one being optional
+      public int AddNumbers(int num1, int num2 = 0)
+      {
+         // Perform addition and return the result
+         return num1 + num2;
+      }
    }
 }

@@ -6,6 +6,10 @@ namespace m0401CallingMethodAssignment
    {
       static void Main(string[] args)
       {
+         //**************************************************
+         // Calling Method Assignment
+         //**************************************************
+
          // Create an instance of the MathOperations class
          MathOperations mathOps = new MathOperations();
 
@@ -32,7 +36,7 @@ namespace m0401CallingMethodAssignment
          Console.ReadKey();
 
          //**************************************************
-         // NEW ASSIGNMENT **********************************
+         // Main Method Assignment (Method Overloading)
          //**************************************************
 
          // Call the first method (integer input)
@@ -60,6 +64,40 @@ namespace m0401CallingMethodAssignment
          // Keep the console window open until the user presses a key
          Console.WriteLine("\nPress any key to exit...");
          Console.ReadKey();
+
+         //**************************************************
+         // Method Assignment (Optional Parameter)
+         //**************************************************
+
+         Console.Write("Enter the first number: ");
+         int firstNumber = int.Parse(Console.ReadLine());
+
+         // Ask the user for the second number (optional)
+         Console.Write("Enter the second number (optional, press Enter to skip): ");
+         string secondNumberInput = Console.ReadLine();
+
+         int result;
+
+         // Check if the user provided a second number
+         if (string.IsNullOrEmpty(secondNumberInput))
+         {
+            // Call the method with only the first number
+            result = mathOps.AddNumbers(firstNumber);
+         }
+         else
+         {
+            // Parse the second number and call the method with both numbers
+            int secondNumber = int.Parse(secondNumberInput);
+            result = mathOps.AddNumbers(firstNumber, secondNumber);
+         }
+
+         // Display the result
+         Console.WriteLine($"The result is: {result}");
+
+         // Pause the console to view the output
+         Console.WriteLine("Press any key to exit...");
+         Console.ReadKey();
+
       }
    }
 }
