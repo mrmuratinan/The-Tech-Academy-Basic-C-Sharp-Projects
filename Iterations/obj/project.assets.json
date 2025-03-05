@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\EVRAK\\001-MI_DOCS\\100-PROJECTS\\GITHUB\\The-Tech-Academy-Basic-C-Sharp-Projects\\Iterations\\Iterations.csproj",
-      "projectName": "Iterations",
-      "projectPath": "C:\\EVRAK\\001-MI_DOCS\\100-PROJECTS\\GITHUB\\The-Tech-Academy-Basic-C-Sharp-Projects\\Iterations\\Iterations.csproj",
+      "projectUniqueName": "C:\\EVRAK\\001-MI_DOCS\\100-PROJECTS\\GITHUB\\The-Tech-Academy-Basic-C-Sharp-Projects\\Iterations\\m0201_Iterations.csproj",
+      "projectName": "m0201_Iterations",
+      "projectPath": "C:\\EVRAK\\001-MI_DOCS\\100-PROJECTS\\GITHUB\\The-Tech-Academy-Basic-C-Sharp-Projects\\Iterations\\m0201_Iterations.csproj",
       "packagesPath": "C:\\Users\\appid\\.nuget\\packages\\",
       "outputPath": "C:\\EVRAK\\001-MI_DOCS\\100-PROJECTS\\GITHUB\\The-Tech-Academy-Basic-C-Sharp-Projects\\Iterations\\obj\\",
       "projectStyle": "PackageReference",

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\EVRAK\\001-MI_DOCS\\100-PROJECTS\\GITHUB\\The-Tech-Academy-Basic-C-Sharp-Projects\\ArraysAndLists\\ArraysAndLists.csproj",
-      "projectName": "ArraysAndLists",
-      "projectPath": "C:\\EVRAK\\001-MI_DOCS\\100-PROJECTS\\GITHUB\\The-Tech-Academy-Basic-C-Sharp-Projects\\ArraysAndLists\\ArraysAndLists.csproj",
+      "projectUniqueName": "C:\\EVRAK\\001-MI_DOCS\\100-PROJECTS\\GITHUB\\The-Tech-Academy-Basic-C-Sharp-Projects\\ArraysAndLists\\m0101_ArraysAndLists.csproj",
+      "projectName": "m0101_ArraysAndLists",
+      "projectPath": "C:\\EVRAK\\001-MI_DOCS\\100-PROJECTS\\GITHUB\\The-Tech-Academy-Basic-C-Sharp-Projects\\ArraysAndLists\\m0101_ArraysAndLists.csproj",
       "packagesPath": "C:\\Users\\appid\\.nuget\\packages\\",
       "outputPath": "C:\\EVRAK\\001-MI_DOCS\\100-PROJECTS\\GITHUB\\The-Tech-Academy-Basic-C-Sharp-Projects\\ArraysAndLists\\obj\\",
       "projectStyle": "PackageReference",

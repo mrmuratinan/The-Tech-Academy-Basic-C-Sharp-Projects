@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\EVRAK\\001-MI_DOCS\\100-PROJECTS\\GITHUB\\The-Tech-Academy-Basic-C-Sharp-Projects\\ExceptionHandling\\ExceptionHandling.csproj",
-      "projectName": "ExceptionHandling",
-      "projectPath": "C:\\EVRAK\\001-MI_DOCS\\100-PROJECTS\\GITHUB\\The-Tech-Academy-Basic-C-Sharp-Projects\\ExceptionHandling\\ExceptionHandling.csproj",
+      "projectUniqueName": "C:\\EVRAK\\001-MI_DOCS\\100-PROJECTS\\GITHUB\\The-Tech-Academy-Basic-C-Sharp-Projects\\ExceptionHandling\\m0301_ExceptionHandling.csproj",
+      "projectName": "m0301_ExceptionHandling",
+      "projectPath": "C:\\EVRAK\\001-MI_DOCS\\100-PROJECTS\\GITHUB\\The-Tech-Academy-Basic-C-Sharp-Projects\\ExceptionHandling\\m0301_ExceptionHandling.csproj",
       "packagesPath": "C:\\Users\\appid\\.nuget\\packages\\",
       "outputPath": "C:\\EVRAK\\001-MI_DOCS\\100-PROJECTS\\GITHUB\\The-Tech-Academy-Basic-C-Sharp-Projects\\ExceptionHandling\\obj\\",
       "projectStyle": "PackageReference",

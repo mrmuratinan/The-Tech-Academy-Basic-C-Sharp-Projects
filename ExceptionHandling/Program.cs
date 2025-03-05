@@ -5,7 +5,6 @@ class Program
 {
    static void Main()
    {
-      goto Start;
       try
       {
          Console.Write("Enter number one: ");
@@ -37,13 +36,7 @@ class Program
       {
          Console.WriteLine("\nThank you for using this program!");
       }
-
-   Start:
-      Console.WriteLine("This is the start of the program.");
-
    }
-
-
 }
 
 
