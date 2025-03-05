@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m0303TwentyOne", "..\m0303_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m0401CallingMethodAssignment", "..\m0401CallingMethodAssignment\m0401CallingMethodAssignment.csproj", "{95FAEF6E-BEF9-4C65-8AE1-CBA9B1F37702}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Submission01_MethodClassAssignment", "..\Submission01_MethodClassAssignment\Submission01_MethodClassAssignment.csproj", "{478D303E-9953-4765-8E93-6302687CAD08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{95FAEF6E-BEF9-4C65-8AE1-CBA9B1F37702}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95FAEF6E-BEF9-4C65-8AE1-CBA9B1F37702}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95FAEF6E-BEF9-4C65-8AE1-CBA9B1F37702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{478D303E-9953-4765-8E93-6302687CAD08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{478D303E-9953-4765-8E93-6302687CAD08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{478D303E-9953-4765-8E93-6302687CAD08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{478D303E-9953-4765-8E93-6302687CAD08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
