@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("m0401CallingMethodAssignment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c243cc24f8ec1d7ed653364e2bfce79eae3c2c68")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4bf3a824bee17b8810a700da9b8f5e8f66d3919")]
 [assembly: System.Reflection.AssemblyProductAttribute("m0401CallingMethodAssignment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("m0401CallingMethodAssignment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
