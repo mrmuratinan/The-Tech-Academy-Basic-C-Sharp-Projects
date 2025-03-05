@@ -30,6 +30,36 @@ namespace m0401CallingMethodAssignment
          // Keep the console window open until the user presses a key
          Console.WriteLine("\nPress any key to exit...");
          Console.ReadKey();
+
+         //**************************************************
+         // NEW ASSIGNMENT **********************************
+         //**************************************************
+
+         // Call the first method (integer input)
+         int intInput = 15;
+         int intResult = mathOps.Calculate(intInput);
+         Console.WriteLine($"Result of integer calculation ({intInput} + 10): {intResult}");
+
+         // Call the second method (decimal input)
+         decimal decimalInput = 7.5m;
+         int decimalResult = mathOps.Calculate(decimalInput);
+         Console.WriteLine($"Result of decimal calculation ({decimalInput} * 2): {decimalResult}");
+
+         // Call the third method (string input)
+         string stringInput = "25";
+         try
+         {
+            int stringResult = mathOps.Calculate(stringInput);
+            Console.WriteLine($"Result of string calculation (\"{stringInput}\" - 5): {stringResult}");
+         }
+         catch (ArgumentException ex)
+         {
+            Console.WriteLine(ex.Message);
+         }
+
+         // Keep the console window open until the user presses a key
+         Console.WriteLine("\nPress any key to exit...");
+         Console.ReadKey();
       }
    }
 }
