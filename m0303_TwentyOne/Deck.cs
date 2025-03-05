@@ -1,13 +1,14 @@
 ﻿using System;
+using System.Threading.Tasks;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace m0303TwentyOne
 {
     public class Deck
     {
+      // Constructor
       public Deck()
       {
          Cards = new List<Card>();
@@ -18,17 +19,37 @@ namespace m0303TwentyOne
             "Jack", "Queen", "King", "Ace"
          };
 
-         foreach (string Face in Faces )
+         foreach (string face in Faces )
          {
-            foreach (string Suit in Suits)
+            foreach (string suit in Suits)
             {
                Card card = new Card();
-               card.Face = Face;
-               card.Suit = Suit;
+               card.Face = face;
+               card.Suit = suit;
                Cards.Add(card);
             }
          }
       }
+
+      // Properties
       public List<Card> Cards { get; set; }
-    }
+
+      // Methods
+      public void Shuffle(int times = 1)
+      {
+         for (int i = 0; i < times; i++)
+         {
+            List<Card> TempList = new List<Card>();
+            Random random = new Random();
+
+            while (Cards.Count > 0)
+            {
+               int randomIndex = random.Next(0, Cards.Count);
+               TempList.Add(Cards[randomIndex]);
+               Cards.RemoveAt(randomIndex);
+            }
+            Cards = TempList;
+         }
+      }
+   }
 }

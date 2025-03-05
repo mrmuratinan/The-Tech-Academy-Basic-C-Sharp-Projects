@@ -9,6 +9,7 @@ namespace m0401CallingMethodAssignment
          goto StartSection;
 
       StartSection:
+
          //**************************************************
          // Calling Method Assignment
          //**************************************************
@@ -100,6 +101,10 @@ namespace m0401CallingMethodAssignment
          // Pause the console to view the output
          Console.WriteLine("Press any key to exit...");
          Console.ReadKey();
+
+         //**************************************************
+         // Class Method Assignment
+         //**************************************************
 
       }
    }
