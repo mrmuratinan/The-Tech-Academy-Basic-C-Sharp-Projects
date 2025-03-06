@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m0301ExceptionHandling", ".
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m0302ExceptionHandlingAssignment", "..\ExceptionHandlingAssignment\m0302ExceptionHandlingAssignment.csproj", "{202C7782-97F9-4BC9-AF4E-7F44B4746302}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m0303TwentyOne", "..\m0303_TwentyOne\m0303TwentyOne.csproj", "{C8E9EBF3-8709-4117-9D45-2767FB861FB3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwentyOne", "..\m0303_TwentyOne\TwentyOne.csproj", "{C8E9EBF3-8709-4117-9D45-2767FB861FB3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m0401Module4Assignments", "..\m0401CallingMethodAssignment\m0401Module4Assignments.csproj", "{95FAEF6E-BEF9-4C65-8AE1-CBA9B1F37702}"
 EndProject

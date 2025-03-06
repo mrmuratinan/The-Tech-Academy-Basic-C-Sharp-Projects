@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace m0303TwentyOne
+namespace TwentyOne
 {
    class Program
    {
@@ -8,6 +8,8 @@ namespace m0303TwentyOne
       {
          Deck deck = new Deck();
          deck.Shuffle(3);
+
+         //Card card0 = new() { Suit = "Clubs", Face = "Two" };
 
          foreach (Card card in deck.Cards)
          {

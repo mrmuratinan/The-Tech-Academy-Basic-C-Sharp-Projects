@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace m0303TwentyOne
+namespace TwentyOne
 {
     public class Card
     {
