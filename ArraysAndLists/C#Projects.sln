@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m0302ExceptionHandlingAssig
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m0303TwentyOne", "..\m0303_TwentyOne\m0303TwentyOne.csproj", "{C8E9EBF3-8709-4117-9D45-2767FB861FB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m0401CallingMethodAssignment", "..\m0401CallingMethodAssignment\m0401CallingMethodAssignment.csproj", "{95FAEF6E-BEF9-4C65-8AE1-CBA9B1F37702}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m0401Module4Assignments", "..\m0401CallingMethodAssignment\m0401Module4Assignments.csproj", "{95FAEF6E-BEF9-4C65-8AE1-CBA9B1F37702}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Submission01_MethodClassAssignment", "..\Submission01_MethodClassAssignment\Submission01_MethodClassAssignment.csproj", "{478D303E-9953-4765-8E93-6302687CAD08}"
 EndProject

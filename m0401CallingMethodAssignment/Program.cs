@@ -1,21 +1,21 @@
 ﻿using System;
 
-namespace m0401CallingMethodAssignment
+namespace m0401Module4Assignments
 {
    class Program
    {
       static void Main(string[] args)
       {
-         goto StartSection;
+         MathOperations mathOps = new MathOperations();
 
-      StartSection:
+         goto StartSection;
 
          //**************************************************
          // Calling Method Assignment
          //**************************************************
 
          // Create an instance of the MathOperations class
-         MathOperations mathOps = new MathOperations();
+
 
          // Ask the user for input
          Console.Write("Enter a number to perform math operations on: ");
@@ -102,10 +102,36 @@ namespace m0401CallingMethodAssignment
          Console.WriteLine("Press any key to exit...");
          Console.ReadKey();
 
+      StartSection:
+
          //**************************************************
          // Class Method Assignment
          //**************************************************
 
+         // Instantiate the MathOperations class
+         //MathOperations mathOps = new MathOperations();
+
+         // Ask the user to enter a number
+         Console.Write("Enter a number to divide by 2: ");
+         int userNumber = int.Parse(Console.ReadLine());
+
+         // Call the DivideByTwo method
+         mathOps.DivideByTwo(userNumber);
+
+         // Demonstrate the method with output parameters
+         int sum, product;
+         mathOps.CalculateSumAndProduct(5, 10, out sum, out product);
+         Console.WriteLine($"Sum: {sum}, Product: {product}");
+
+         // Demonstrate the overloaded method
+         mathOps.DivideByTwo(15.75);
+
+         // Demonstrate the static class method
+         MathOperations.MultiplyByTwo(8);
+
+         // Pause the console to view the output
+         Console.WriteLine("Press any key to exit...");
+         Console.ReadKey();
       }
    }
 }

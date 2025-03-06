@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace m0401CallingMethodAssignment
+namespace m0401Module4Assignments
 {
     class MathOperations
     {
@@ -59,5 +59,38 @@ namespace m0401CallingMethodAssignment
          // Perform addition and return the result
          return num1 + num2;
       }
+      //**************************************************
+      // Methods for Class method assignment
+      //**************************************************
+      public void DivideByTwo(int number)
+      {
+         int result = number / 2;
+         Console.WriteLine($"The result of dividing {number} by 2 is: {result}");
+      }
+
+      // Method with output parameters
+      public void CalculateSumAndProduct(int num1, int num2, out int sum, out int product)
+      {
+         sum = num1 + num2;
+         product = num1 * num2;
+      }
+
+      // Overloaded method
+      public void DivideByTwo(double number)
+      {
+         double result = number / 2.0;
+         Console.WriteLine($"The result of dividing {number} by 2 is: {result}");
+      }
+
+      // Static method
+      public static void MultiplyByTwo(int number)
+      {
+         int result = number * 2;
+         Console.WriteLine($"The result of multiplying {number} by 2 is: {result}");
+      }
+
+      //**************************************************
+      // END: Methods for Class method assignment
+      //**************************************************
    }
 }
