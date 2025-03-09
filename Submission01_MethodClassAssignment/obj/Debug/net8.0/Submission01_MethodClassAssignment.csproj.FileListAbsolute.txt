@@ -1,0 +1,15 @@
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Submission01_MethodClassAssignment\bin\Debug\net8.0\Submission01_MethodClassAssignment.exe
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Submission01_MethodClassAssignment\bin\Debug\net8.0\Submission01_MethodClassAssignment.deps.json
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Submission01_MethodClassAssignment\bin\Debug\net8.0\Submission01_MethodClassAssignment.runtimeconfig.json
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Submission01_MethodClassAssignment\bin\Debug\net8.0\Submission01_MethodClassAssignment.dll
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Submission01_MethodClassAssignment\bin\Debug\net8.0\Submission01_MethodClassAssignment.pdb
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Submission01_MethodClassAssignment\obj\Debug\net8.0\Submission01_MethodClassAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Submission01_MethodClassAssignment\obj\Debug\net8.0\Submission01_MethodClassAssignment.AssemblyInfoInputs.cache
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Submission01_MethodClassAssignment\obj\Debug\net8.0\Submission01_MethodClassAssignment.AssemblyInfo.cs
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Submission01_MethodClassAssignment\obj\Debug\net8.0\Submission01_MethodClassAssignment.csproj.CoreCompileInputs.cache
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Submission01_MethodClassAssignment\obj\Debug\net8.0\Submission01_MethodClassAssignment.sourcelink.json
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Submission01_MethodClassAssignment\obj\Debug\net8.0\Submission01_MethodClassAssignment.dll
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Submission01_MethodClassAssignment\obj\Debug\net8.0\refint\Submission01_MethodClassAssignment.dll
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Submission01_MethodClassAssignment\obj\Debug\net8.0\Submission01_MethodClassAssignment.pdb
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Submission01_MethodClassAssignment\obj\Debug\net8.0\Submission01_MethodClassAssignment.genruntimeconfig.cache
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Submission01_MethodClassAssignment\obj\Debug\net8.0\ref\Submission01_MethodClassAssignment.dll

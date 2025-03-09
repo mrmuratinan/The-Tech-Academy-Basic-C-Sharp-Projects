@@ -1,0 +1,15 @@
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Sumission02_Polymorphism\bin\Debug\net8.0\Submission02_Polymorphism.exe
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Sumission02_Polymorphism\bin\Debug\net8.0\Submission02_Polymorphism.deps.json
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Sumission02_Polymorphism\bin\Debug\net8.0\Submission02_Polymorphism.runtimeconfig.json
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Sumission02_Polymorphism\bin\Debug\net8.0\Submission02_Polymorphism.dll
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Sumission02_Polymorphism\bin\Debug\net8.0\Submission02_Polymorphism.pdb
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Sumission02_Polymorphism\obj\Debug\net8.0\Submission02_Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Sumission02_Polymorphism\obj\Debug\net8.0\Submission02_Polymorphism.AssemblyInfoInputs.cache
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Sumission02_Polymorphism\obj\Debug\net8.0\Submission02_Polymorphism.AssemblyInfo.cs
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Sumission02_Polymorphism\obj\Debug\net8.0\Submission02_Polymorphism.csproj.CoreCompileInputs.cache
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Sumission02_Polymorphism\obj\Debug\net8.0\Submission02_Polymorphism.sourcelink.json
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Sumission02_Polymorphism\obj\Debug\net8.0\Submission02_Polymorphism.dll
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Sumission02_Polymorphism\obj\Debug\net8.0\refint\Submission02_Polymorphism.dll
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Sumission02_Polymorphism\obj\Debug\net8.0\Submission02_Polymorphism.pdb
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Sumission02_Polymorphism\obj\Debug\net8.0\Submission02_Polymorphism.genruntimeconfig.cache
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Sumission02_Polymorphism\obj\Debug\net8.0\ref\Submission02_Polymorphism.dll

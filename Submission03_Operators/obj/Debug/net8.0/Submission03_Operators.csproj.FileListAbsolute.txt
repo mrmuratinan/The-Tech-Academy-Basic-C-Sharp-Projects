@@ -1,0 +1,15 @@
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Submission03_Operators\bin\Debug\net8.0\Submission03_Operators.exe
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Submission03_Operators\bin\Debug\net8.0\Submission03_Operators.deps.json
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Submission03_Operators\bin\Debug\net8.0\Submission03_Operators.runtimeconfig.json
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Submission03_Operators\bin\Debug\net8.0\Submission03_Operators.dll
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Submission03_Operators\bin\Debug\net8.0\Submission03_Operators.pdb
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Submission03_Operators\obj\Debug\net8.0\Submission03_Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Submission03_Operators\obj\Debug\net8.0\Submission03_Operators.AssemblyInfoInputs.cache
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Submission03_Operators\obj\Debug\net8.0\Submission03_Operators.AssemblyInfo.cs
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Submission03_Operators\obj\Debug\net8.0\Submission03_Operators.csproj.CoreCompileInputs.cache
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Submission03_Operators\obj\Debug\net8.0\Submission03_Operators.sourcelink.json
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Submission03_Operators\obj\Debug\net8.0\Submission03_Operators.dll
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Submission03_Operators\obj\Debug\net8.0\refint\Submission03_Operators.dll
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Submission03_Operators\obj\Debug\net8.0\Submission03_Operators.pdb
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Submission03_Operators\obj\Debug\net8.0\Submission03_Operators.genruntimeconfig.cache
+C:\EVRAK\001-MI_DOCS\100-PROJECTS\GITHUB\The-Tech-Academy-Basic-C-Sharp-Projects\Submission03_Operators\obj\Debug\net8.0\ref\Submission03_Operators.dll
